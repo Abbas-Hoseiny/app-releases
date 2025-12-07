@@ -21,7 +21,23 @@ Dieses Repository enthält die Release-Dateien für die Pflanzenschutz Desktop A
 1. DMG-Datei herunterladen
 2. Doppelklick zum Öffnen
 3. App in den Applications-Ordner ziehen
-4. Beim ersten Start: Rechtsklick → Öffnen (wegen Gatekeeper)
+4. **Wichtig:** Beim ersten Start wird die App möglicherweise blockiert
+
+#### Falls "App ist beschädigt" erscheint:
+
+**Option 1:** Terminal öffnen und ausführen:
+```bash
+xattr -cr /Applications/Pflanzenschutz.app
+```
+Dann die App normal starten.
+
+**Option 2:** 
+1. Rechtsklick auf die App → "Öffnen"
+2. Im Dialog auf "Öffnen" klicken
+
+**Option 3:**
+1. Systemeinstellungen → Datenschutz & Sicherheit
+2. Unten bei "Sicherheit" auf "Trotzdem öffnen" klicken
 
 ### Windows
 
