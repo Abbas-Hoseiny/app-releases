@@ -4,8 +4,8 @@
   "minimumVersion": "2.0.0",
   "notes": "Erste Version mit Setup-Dialog, Login-System und automatischen Updates",
   "downloads": {
-    "mac-x64": "https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-mac-x64.dmg",
-    "mac-arm64": "https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-mac-arm64.dmg",
+    "mac-x64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.0-mac-x64.dmg",
+    "mac-arm64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.0-mac-arm64.dmg",
     "win": "https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-win.exe"
   }
 }
