@@ -7,16 +7,17 @@ Dieses Repository enthält die Release-Dateien für die Pflanzenschutz Desktop A
 **Version 2.0.1** - 7. Dezember 2025
 
 ### Änderungen in v2.0.1
+
 - Bugfix: Import-Funktion speichert Daten korrekt in SQLite
 - Bugfix: Archiv-Logs zeigen korrekten Eintrag-Count
 
 ## Downloads
 
-| Plattform             | Download |
-| --------------------- | -------- |
+| Plattform             | Download                                                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | macOS (Apple Silicon) | [Pflanzenschutz-2.0.1-mac-arm64.dmg](https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.1-mac-arm64.dmg) |
-| macOS (Intel)         | [Pflanzenschutz-2.0.1-mac-x64.dmg](https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.1-mac-x64.dmg) |
-| Windows               | *Kommt bald* |
+| macOS (Intel)         | [Pflanzenschutz-2.0.1-mac-x64.dmg](https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.1-mac-x64.dmg)     |
+| Windows               | _Kommt bald_                                                                                                                    |
 
 ## Installation
 
@@ -69,6 +70,7 @@ cd /pfad/zu/electron
 ```
 
 Das Script:
+
 1. Liest Version aus `package.json`
 2. Baut die App
 3. Kopiert DMGs hierher
@@ -105,6 +107,7 @@ Das Script:
 - **Windows:** Muss auf Windows gebaut werden
 
 Workflow:
+
 1. Version erhöhen → commit & push im `electron` Repo
 2. Auf Mac: `git pull` → `npm run dist:mac` → DMGs kopieren
 3. Auf Windows: `git pull` → `npm run dist:win` → EXE kopieren
