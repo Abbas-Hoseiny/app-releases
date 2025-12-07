@@ -1,11 +1,11 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "releaseDate": "2025-12-07",
   "minimumVersion": "2.0.0",
-  "notes": "Erste Version mit Setup-Dialog, Login-System und automatischen Updates",
+  "notes": "Bugfix: Import-Funktion speichert Daten korrekt in SQLite, Archiv-Logs zeigen korrekten Eintrag-Count",
   "downloads": {
-    "mac-x64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.0-mac-x64.dmg",
-    "mac-arm64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.0-mac-arm64.dmg",
-    "win": "https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-win.exe"
+    "mac-x64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.1-mac-x64.dmg",
+    "mac-arm64": "https://github.com/Abbas-Hoseiny/app-releases/raw/main/Pflanzenschutz-2.0.1-mac-arm64.dmg",
+    "win": "https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.1/Pflanzenschutz-2.0.1-win.exe"
   }
 }
