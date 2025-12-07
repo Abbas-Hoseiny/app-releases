@@ -8,21 +8,23 @@ Dieses Repository enthält die Release-Dateien für die Pflanzenschutz Desktop A
 
 ## Downloads
 
-| Plattform | Download |
-|-----------|----------|
+| Plattform             | Download                                                                                                                                        |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | macOS (Apple Silicon) | [Pflanzenschutz-2.0.0-mac-arm64.dmg](https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-mac-arm64.dmg) |
-| macOS (Intel) | [Pflanzenschutz-2.0.0-mac-x64.dmg](https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-mac-x64.dmg) |
-| Windows | [Pflanzenschutz-2.0.0-win.exe](https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-win.exe) |
+| macOS (Intel)         | [Pflanzenschutz-2.0.0-mac-x64.dmg](https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-mac-x64.dmg)     |
+| Windows               | [Pflanzenschutz-2.0.0-win.exe](https://github.com/Abbas-Hoseiny/app-releases/releases/download/v2.0.0/Pflanzenschutz-2.0.0-win.exe)             |
 
 ## Installation
 
 ### macOS
+
 1. DMG-Datei herunterladen
 2. Doppelklick zum Öffnen
 3. App in den Applications-Ordner ziehen
 4. Beim ersten Start: Rechtsklick → Öffnen (wegen Gatekeeper)
 
 ### Windows
+
 1. EXE-Datei herunterladen
 2. Installer ausführen
 3. Installationsanweisungen folgen
